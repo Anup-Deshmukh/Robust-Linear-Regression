@@ -4,7 +4,8 @@ Implementation of two algorithms:
  - Alternating direction method of multipliers (ADMM) for rank sparsity 
  - Alternating minimization (AM) for robust regression 
  
-This jupyter notbook introduces the problem and then walks you through the code in detail.
+The jupyter notbook (Robust-LR.ipynb) introduces the problem and then walks you through the code in detail.
+The entire optimization routine (including gradient calculation) is implemented from scratch.
 
 Some helpful resources to understand ADMM and AM:
 - https://stanford.edu/~boyd/admm.html - Few representative examples of papers and tools  
