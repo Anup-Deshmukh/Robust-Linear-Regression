@@ -16,8 +16,9 @@ Prerequisites:
 numpy==1.15.4
 tqdm==4.26.0
 matplotlib==2.2.3
-cv2
+cv2==4.3.0
+scipy==1.7.0
+sklearn==1.1.0
 glob
-scipy
 ```
 
