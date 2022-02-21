@@ -10,7 +10,7 @@ The entire optimization routine (including gradient calculation) is implemented 
 Some helpful resources to understand ADMM and AM:
 - https://stanford.edu/~boyd/admm.html - Few representative examples of papers and tools  
 - https://web.eecs.umich.edu/~fessler/course/598/l/n-06-alt.pdf - From a EECS UMICH course
-- https://en.wikipedia.org/wiki/Robust_regression - General overview of the robust regression 
+- https://en.wikipedia.org/wiki/Robust_regression - Broad overview of the robust regression 
 
 Prerequisites:
 ```
